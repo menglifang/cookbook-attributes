@@ -1,0 +1,10 @@
+{
+  "run_list": [
+    "recipe[git]",
+    "recipe[gitflow]",
+    "recipe[zsh]",
+    "recipe[on-my-zsh]",
+    "recipe[janus]",
+    "recipe[rvm]"
+  ]
+}
