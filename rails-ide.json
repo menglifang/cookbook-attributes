@@ -3,7 +3,7 @@
     "recipe[git]",
     "recipe[gitflow]",
     "recipe[zsh]",
-    "recipe[on-my-zsh]",
+    "recipe[onmyzsh]",
     "recipe[janus]",
     "recipe[rvm]"
   ]
