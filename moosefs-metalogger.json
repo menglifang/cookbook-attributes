@@ -1,0 +1,1 @@
+{ "moosefs": { "version": "1.6.26", "role": "metalogger" }, "run_list": ["recipe[moosefs::metalogger]"] }
