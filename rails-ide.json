@@ -1,7 +1,7 @@
 {
   "run_list": [
     "recipe[gitflow]",
-    "recipe[onmyzsh]",
+    "recipe[ohmyzsh]",
     "recipe[janus]",
     "recipe[ruby]"
   ]
